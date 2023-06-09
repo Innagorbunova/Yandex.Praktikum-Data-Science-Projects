@@ -8,5 +8,5 @@
 
 **Стек технологий:** pandas, numpy, torch, torchvision, seaborn, matplotlib,  OneHotEncoder, StandardScaler,обучение полносвязной нейронной сети.
 
-**Статус проекьа:** завершен
+**Статус проекта:** завершен
 
