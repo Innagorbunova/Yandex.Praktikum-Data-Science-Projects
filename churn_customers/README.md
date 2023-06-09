@@ -8,3 +8,5 @@
 
 **Стек технологий:** pandas (StandardScaler, DecisionTreeClassifier, RandomForestClassifier, LogisticRegression, cross_val_score, GridSearchCV), matplotlib, numpy, seaborn.
 
+**Статус проекта:** завершен.
+
