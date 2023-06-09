@@ -10,6 +10,7 @@
 Указанные данные доступны, характеризуют личность водителя и в своей совокупности должны улучшить качество предсказаний именно "рискованности" потенциального водителя до начала поездки, как это необходимо заказчику.
 
 **Стек технологий:** pandas, numpy, seaborn, matplotlib, lightgbm, catboost, SQL, sqlalchemy, OneHotEncoder, StandardScaler,  OrdinalEncoder, LabelEncoder, LogisticRegression, DecisionTreeClassifier, RandomForestClassifier, Pipeline, make_pipeline, RandomUnderSampler, ColumnTransformer.
+
 **Статус проекта:** завершен.
 
 
