@@ -1,1 +1,1 @@
-https://github.com/Innagorbunova/repo/blob/main/California_Housing/California_Housing.ipynb
+https://github.com/Innagorbunova/repo/tree/main/Телеком
