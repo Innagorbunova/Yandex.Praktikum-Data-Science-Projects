@@ -1,3 +1,3 @@
 
 
-[This is a link](Телеком/Телеком.ipynb)
+[Телеком/Телеком.ipynb](https://github.com/Innagorbunova/repo/blob/main/)
