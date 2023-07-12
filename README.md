@@ -1,2 +1,2 @@
 
-https://github.com/Innagorbunova/repo/Телеком
+https://github.com/Innagorbunova/repo
