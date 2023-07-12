@@ -1,2 +1,2 @@
 
-[Телеком](https://github.com/Innagorbunova/repo/tree/main/)
+https://github.com/Innagorbunova/repo/tree/main/Телеком
